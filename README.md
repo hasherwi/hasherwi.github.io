@@ -2,7 +2,7 @@
 
 ### Zoom Video Communications
 
-*TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – PRESENT, DENVER, CO*
+*TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – PRESENT; DENVER, CO*
 
 > I program manage enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.  
 > I serve as the subject-matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.  
@@ -11,9 +11,9 @@
 
 ### Amazon Web Services
 
-*SR. TECHNICAL INSTRUCTOR TEAM LEAD: JAN 2023 – JUNE 2024, COLORADO*  
-*SR. TECHNICAL TRAINER: JULY 2022 – JAN 2023, COLORADO*  
-*TECHNICAL TRAINER: JULY 2020 – JULY 2022, COLORADO*
+*SR. TECHNICAL INSTRUCTOR TEAM LEAD: JAN 2023 – JUNE 2024; COLORADO*  
+*SR. TECHNICAL TRAINER: JULY 2022 – JAN 2023; COLORADO*  
+*TECHNICAL TRAINER: JULY 2020 – JULY 2022; COLORADO*
 
 > Managed and mentored a team of Technical Instructors tracking individual KPIs.
 > Assisted in strategic planning to meet global demand for training courses, creating a dashboard to track the supply of unique instructor skills against the demand of specialized customers.  
@@ -25,7 +25,7 @@
 
 ### VMware (now part of Broadcom)
 
-*SR. TECHNICAL CONTENT DEVELOPER: AUGUST 2018 – JULY 2020, BROOMFIELD, CO*
+*SR. TECHNICAL CONTENT DEVELOPER: AUGUST 2018 – JULY 2020; BROOMFIELD, CO*
 
 > Co-created and designed the VMware Cloud on AWS: Deploy and Manage three-day course.  
 > Led train-the-trainer sessions, on-demand recordings, and maintenance of the course.  
@@ -34,7 +34,7 @@
 > Presented technical sessions to end users both virtually and at large in-person events.  
 > Recommended a strategy for public cloud training.
 
-*TECHNICAL SUPPORT TRAINING SPECIALIST: FEBRUARY 2017 – AUGUST 2018, BROOMFIELD, CO*
+*TECHNICAL SUPPORT TRAINING SPECIALIST: FEBRUARY 2017 – AUGUST 2018; BROOMFIELD, CO*
 
 > Instructed new-hire support engineers on VMware vSphere in live and virtual week-long courses.  
 > Co-designed an onboarding program for support engineers focused on job roles and time to first case resolution.  
@@ -42,8 +42,8 @@
 
 ### Clare Controls (now part of SnapAV)
 
-*TRAINER: MAY 2015 – JANUARY 2017, SARASOTA, FL*  
-*JR. TRAINER: MAY 2014 – MAY 2015, SARASOTA, FL*
+*TRAINER: MAY 2015 – JANUARY 2017; SARASOTA, FL*  
+*JR. TRAINER: MAY 2014 – MAY 2015; SARASOTA, FL*
 
 > Co-designed and maintained an experiential classroom and traveling training kits.  
 > Conducted three-day virtual and on-site training courses.  
