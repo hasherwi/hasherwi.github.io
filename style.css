@@ -2,5 +2,5 @@
 blockquote,
 blockquote p,
 blockquote li {
-    line-height: calc(1em + 0.5em); /* = 1.5 lines */
+    line-height: calc(1em + 0.5em) !important; /* = 1.5 lines */
 }
