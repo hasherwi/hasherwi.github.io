@@ -139,7 +139,7 @@ code { background: #f6f8fa; padding: 0.15em 0.35em; border-radius: 4px; }
 pre { background: #f6f8fa; padding: 12px; border-radius: 6px; overflow-x: auto; }
 
 /* Three-column layout for the Technical Skills list */
-.content h2#technical-skills + ul {
+.content h2#technical-skills ul {
     columns: 3;              /* number of columns */
     -webkit-columns: 3;
     -moz-columns: 3;
@@ -147,7 +147,7 @@ pre { background: #f6f8fa; padding: 12px; border-radius: 6px; overflow-x: auto; 
     list-style-position: inside;
 }
 
-.content h2#technical-skills + ul li {
+.content h2#technical-skills ul li {
     break-inside: avoid;     /* keep items from splitting between columns */
     padding-left: 0.5em;
 }
