@@ -134,11 +134,6 @@ body {
 
 .content li { margin: 0.2em 0; }
 
-/* Ensure only one marker is shown and control nested styles */
-.content ul,
-.content ol { padding-left: 1.25em; }               /* indent lists */
-.content li::before { content: none !important; }   /* remove pseudo bullets if any */
-
 /* Code */
 code { background: #f6f8fa; padding: 0.15em 0.35em; border-radius: 4px; }
 pre { background: #f6f8fa; padding: 12px; border-radius: 6px; overflow-x: auto; }
