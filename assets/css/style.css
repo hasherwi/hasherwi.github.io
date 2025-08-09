@@ -80,8 +80,6 @@ body {
     font-size: smaller;
 }
 
-.toc li { text-transform: capitalize; }
-
 .social a:hover, .toc a:hover { border-bottom-color: currentColor; }
 
 .social a, .toc a {

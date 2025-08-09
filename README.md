@@ -1,4 +1,4 @@
-## SELECTED EXPERIENCE
+## Selected Experience
 
 ### Zoom Video Communications
 
@@ -50,7 +50,7 @@
 > Coordinated all aspects of training operations: logistics, instructional design, analysis, etc.  
 > Partnered with sales, product management, and engineering to evaluate and implement customer feedback.
 
-## EDUCATION
+## Education
 
 ### Regis University, Denver, CO — B.S. in Computer Science
 
@@ -60,7 +60,7 @@
 
 *2014 – 2015*
 
-## SELECTED CERTIFICATIONS
+## Selected Certifications
 
 ### Amazon Web Services
 
@@ -89,7 +89,7 @@
 
 - CompTIA CTT+ Classroom Trainer Certification
 
-## LIVE EVENTS AND RECORDED TRAININGS
+## Live Events & Recorded Trainings
 
 *AWS Training Live — Twitch*
 - Get That Badge! AWS Well-Architected: Live and Recorded Host Role in a Five Episode Stream
@@ -110,7 +110,7 @@
 - June 2019: How is Storage Different in VMware Cloud on AWS
 - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
-## TECHNICAL SKILLS {#technical-skills}
+## Technical Skills {#technical-skills}
 
 - Asana
 - Bash Scripting
