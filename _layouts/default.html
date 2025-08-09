@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<div class="layout">
+    <aside class="sidebar">
+        <header class="site-header">
+            <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            {% if site.description %}
+            <p class="site-description">{{ site.description }}</p>
+            {% endif %}
+        </header>
+
+        <nav class="social">
+            <ul>
+                <li><a href="https://linkedin.com/in/hsherwin/" target="_blank" rel="noopener">LinkedIn</a></li>
+                <li><a href="https://credly.com/users/harrison-sherwin" target="_blank" rel="noopener">Credly</a></li>
+                <li><a href="https://github.com/{{ site.github_username | default: site.username }}" target="_blank" rel="noopener">GitHub</a></li>
+            </ul>
+        </nav>
+
+        <!-- Add more sidebar items if you want -->
+    </aside>
+
+    <main class="content">
+        {{ content }}
+    </main>
+</div>
+</body>
+</html>
