@@ -118,7 +118,8 @@ body {
 }
 
 .content blockquote p {
-    text-indent: 0.5em hanging;
+    padding-left: 0.5em;  /* base indent for all lines */
+    text-indent: -0.5em;  /* pull first line back out */
 }
 
 /* Add space between sentences/paragraphs */
