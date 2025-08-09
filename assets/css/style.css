@@ -117,9 +117,12 @@ body {
     border-left: 3px solid #eee;
 }
 
+.content blockquote p {
+    text-indent: 0.5em hanging;
+}
+
 /* Add space between sentences/paragraphs */
-.content blockquote p + p,
-.content blockquote li + li {
+.content blockquote p + p {
     margin-top: 1.5em; /* extra space between sentence blocks */
 }
 
