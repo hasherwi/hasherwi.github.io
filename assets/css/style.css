@@ -97,10 +97,11 @@ body {
     padding-left: 1em;
     border-left: 3px solid #eee;
 }
-.content blockquote,
-.content blockquote p,
-.content blockquote li {
-    line-height: 5em;
+
+/* Add space between sentences/paragraphs */
+.content blockquote p + p,
+.content blockquote li + li {
+    margin-top: 1em; /* extra space between sentence blocks */
 }
 
 /* Lists */
