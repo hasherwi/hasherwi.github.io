@@ -40,13 +40,13 @@ body {
 
 .site-description { margin: 0 0 16px 0; color: var(--muted); font-size: 14px; }
 
-.social ul { list-style: none; padding: 0; margin: 0; }
-.social li { margin: 6px 0; }
+.social ul, .toc ul { list-style: none; padding: 0; margin: 0; }
+.social li, .toc li { margin: 6px 0; }
 
-.social a:hover { border-bottom-color: currentColor; }
+.social a:hover, .toc a:hover { border-bottom-color: currentColor; }
 
 /* Social links: icon sizing + opacity */
-.social a {
+.social a, .toc a {
     display: flex;
     align-items: center;
     gap: 8px;
