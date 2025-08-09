@@ -104,7 +104,7 @@ body {
 /* Add space between sentences/paragraphs */
 .content blockquote p + p,
 .content blockquote li + li {
-    margin-top: 1em; /* extra space between sentence blocks */
+    margin-top: 1.5em; /* extra space between sentence blocks */
 }
 
 /* Lists */
