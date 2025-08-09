@@ -1,6 +1,3 @@
-[LinkedIn](linkedin.com/in/hsherwin/)  
-[Credly](credly.com/users/harrison-sherwin)
-
 ## SELECTED EXPERIENCE
 
 ### Zoom Video Communications

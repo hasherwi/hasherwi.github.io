@@ -41,12 +41,25 @@ body {
 
 .social ul { list-style: none; padding: 0; margin: 0; }
 .social li { margin: 6px 0; }
+
 .social a {
     color: var(--link);
     text-decoration: none;
     border-bottom: 1px solid transparent;
+    display: flex;
+    align-items: center;
+    gap: 8px; /* space between icon and text */
 }
+
 .social a:hover { border-bottom-color: currentColor; }
+
+.icon {
+    width: 16px;
+    height: 16px;
+    fill: #888; /* grey icons */
+    flex-shrink: 0;
+}
+
 
 /* Content typography */
 .content h1, .content h2, .content h3 {
