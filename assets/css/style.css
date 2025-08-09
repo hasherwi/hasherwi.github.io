@@ -59,7 +59,11 @@ body {
 .site-description { margin: 0 0 16px 0; color: var(--muted); font-size: 14px; }
 
 .social ul, .toc ul { list-style: none; padding: 0; margin: 0; }
-.social li, .toc li { margin: 6px 0; }
+
+.social li, .toc li {
+    margin: 6px 0;
+    text-transform: capitalize;
+}
 
 .social a:hover, .toc a:hover { border-bottom-color: currentColor; }
 
