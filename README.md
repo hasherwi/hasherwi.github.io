@@ -1,6 +1,7 @@
 # Harrison Sherwin
 
-linkedin.com/in/hsherwin/ | credly.com/users/harrison-sherwin
+[LinkedIn](linkedin.com/in/hsherwin/)
+[Credly](credly.com/users/harrison-sherwin)
 
 ## SELECTED EXPERIENCE
 
