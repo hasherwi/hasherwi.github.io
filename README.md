@@ -1,5 +1,3 @@
-# Harrison Sherwin
-
 [LinkedIn](linkedin.com/in/hsherwin/)  
 [Credly](credly.com/users/harrison-sherwin)
 
