@@ -147,7 +147,7 @@
 - VMware NSX
 - VMware vSAN
 
-### Selected Amazon Web Services {#technical-skills}
+### Selected Amazon Web Services {#aws-skills}
 
 - API Gateway
 - Athena
