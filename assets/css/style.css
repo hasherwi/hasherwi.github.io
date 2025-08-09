@@ -45,7 +45,6 @@ body {
 
 .social a:hover, .toc a:hover { border-bottom-color: currentColor; }
 
-/* Social links: icon sizing + opacity */
 .social a, .toc a {
     display: flex;
     align-items: center;
@@ -61,7 +60,6 @@ body {
     opacity: 0.5;        /* 50% opacity */
 }
 
-/* Optional: a little feedback on hover/focus */
 .social a:hover .icon,
 .social a:focus-visible .icon {
     opacity: 0.75;
@@ -84,23 +82,24 @@ body {
 .content blockquote,
 .content blockquote p,
 .content blockquote li {
-    line-height: calc(1em + 0.5em); /* 1.5 lines */
+    line-height: 5em;
 }
 
-/* Ensure only one marker is shown and control nested styles */
-.content ul,
-.content ol { padding-left: 1.25em; }               /* indent lists */
-.content li::before { content: none !important; }   /* remove pseudo bullets if any */
+/* Lists */
 
 /* Proper marker types for nested ULs */
 .content ul { list-style: disc outside; }
 .content ul ul { list-style: circle outside; }
 .content ul ul ul { list-style: square outside; }
 
-/* (Optional) tighten spacing a touch */
 .content li { margin: 0.2em 0; }
 
-/* Code & lists */
+/* Ensure only one marker is shown and control nested styles */
+.content ul,
+.content ol { padding-left: 1.25em; }               /* indent lists */
+.content li::before { content: none !important; }   /* remove pseudo bullets if any */
+
+/* Code */
 code { background: #f6f8fa; padding: 0.15em 0.35em; border-radius: 4px; }
 pre { background: #f6f8fa; padding: 12px; border-radius: 6px; overflow-x: auto; }
 
