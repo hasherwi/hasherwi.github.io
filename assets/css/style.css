@@ -117,9 +117,17 @@ body {
     border-left: 3px solid #eee;
 }
 
+/* Hanging indent for blockquotes even when lines are split with <br> */
 .content blockquote p {
-    padding-left: 0.5em;  /* base indent for all lines */
-    text-indent: -0.5em;  /* pull first line back out */
+    padding-left: 0.5em;    /* base indent for all lines */
+    text-indent: -0.5em;    /* first line pulled back out */
+}
+
+.content blockquote p br::after {
+    content: "\A";          /* force a line break in generated content */
+    white-space: pre;       /* preserve the break */
+    display: block;
+    margin-left: 0.5em;     /* indent following line */
 }
 
 /* Add space between sentences/paragraphs */
