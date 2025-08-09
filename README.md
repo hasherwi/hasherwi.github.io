@@ -9,10 +9,10 @@
 
 *TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – PRESENT: DENVER, CO*
 
-> - I program manage enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.  
-> - I serve as the subject matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.  
-> - I administer the pre-sales demonstration environment, supporting an average of three tickets per day.  
-> - I collaborate with the sales, product, and partner enablement teams to ensure consistent messaging in all training content.
+> I program manage enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.  
+> I serve as the subject matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.  
+> I administer the pre-sales demonstration environment, supporting an average of three tickets per day.  
+> I collaborate with the sales, product, and partner enablement teams to ensure consistent messaging in all training content.
 
 ### Amazon Web Services
 
@@ -20,40 +20,40 @@
 *SR. TECHNICAL TRAINER: JULY 2022 – JAN 2023, COLORADO*  
 *TECHNICAL TRAINER: JULY 2020 – JULY 2022, COLORADO*
 
-> - Managed and mentored a team of Technical Instructors tracking individual KPIs.
-> - Assisted in strategic planning to meet global demand for training courses, creating a dashboard to track the supply of unique instructor skills against the demand of specialized customers.  
-> - Advised enterprise and public sector customers on the direction of their training and implementations as a SME during the pre-sales process. My particular focus was the public sector, the intelligence community, and open-source software.  
-> - I was the global lead instructor for the “Amazon EKS for Developers” course, which required me to consult on the direction of new training products and updates, while also assisting new trainers with that and related courses.  
-> - Delivered over 20 distinct courses to external, partner, and internal students. I specifically focused on public sector customers and strategic accounts. Course topics included Kubernetes, Development, DevOps, Architecture, Security, machine learning, and artificial intelligence, among others.  
-> - Created, advised on, and reviewed other new technical content including self-paced courses, live Twitch series, certification practice exams, and hands-on labs.  
-> - Presented at large-scale public events, including AWS re:Invent and the AWS D.C. Summit.
+> Managed and mentored a team of Technical Instructors tracking individual KPIs.
+> Assisted in strategic planning to meet global demand for training courses, creating a dashboard to track the supply of unique instructor skills against the demand of specialized customers.  
+> Advised enterprise and public sector customers on the direction of their training and implementations as a SME during the pre-sales process. My particular focus was the public sector, the intelligence community, and open-source software.  
+> I was the global lead instructor for the “Amazon EKS for Developers” course, which required me to consult on the direction of new training products and updates, while also assisting new trainers with that and related courses.  
+> Delivered over 20 distinct courses to external, partner, and internal students. I specifically focused on public sector customers and strategic accounts. Course topics included Kubernetes, Development, DevOps, Architecture, Security, machine learning, and artificial intelligence, among others.  
+> Created, advised on, and reviewed other new technical content including self-paced courses, live Twitch series, certification practice exams, and hands-on labs.  
+> Presented at large-scale public events, including AWS re:Invent and the AWS D.C. Summit.
 
 ### VMware (now part of Broadcom)
 
 *SR. TECHNICAL CONTENT DEVELOPER: AUGUST 2018 – JULY 2020, BROOMFIELD, CO*
 
-> - Co-created and designed the VMware Cloud on AWS: Deploy and Manage three-day course.  
-> - Led train-the-trainer sessions, on-demand recordings, and maintenance of the course.  
-> - Advised other teams on cloud education strategies.  
-> - Co-authored the VMware Cloud on AWS Management Exam 2019.  
-> - Presented technical sessions to end users both virtually and at large in-person events.  
-> - Recommended a strategy for public cloud training.
+> Co-created and designed the VMware Cloud on AWS: Deploy and Manage three-day course.  
+> Led train-the-trainer sessions, on-demand recordings, and maintenance of the course.  
+> Advised other teams on cloud education strategies.  
+> Co-authored the VMware Cloud on AWS Management Exam 2019.  
+> Presented technical sessions to end users both virtually and at large in-person events.  
+> Recommended a strategy for public cloud training.
 
 *TECHNICAL SUPPORT TRAINING SPECIALIST: FEBRUARY 2017 – AUGUST 2018, BROOMFIELD, CO*
 
-> - Instructed new-hire support engineers on VMware vSphere in live and virtual week-long courses.  
-> - Co-designed an onboarding program for support engineers focused on job roles and time to first case resolution.  
-> - Redesigned a hands-on workshop to teach troubleshooting skills, provide practical experience, and decrease case resolution time.
+> Instructed new-hire support engineers on VMware vSphere in live and virtual week-long courses.  
+> Co-designed an onboarding program for support engineers focused on job roles and time to first case resolution.  
+> Redesigned a hands-on workshop to teach troubleshooting skills, provide practical experience, and decrease case resolution time.
 
 ### Clare Controls (now part of SnapAV)
 
 *TRAINER: MAY 2015 – JANUARY 2017, SARASOTA, FL*  
 *JR. TRAINER: MAY 2014 – MAY 2015, SARASOTA, FL*
 
-> - Co-designed and maintained an experiential classroom and traveling training kits.  
-> - Conducted three-day virtual and on-site training courses.  
-> - Coordinated all aspects of training operations: logistics, instructional design, analysis, etc.  
-> - Partnered with sales, product management, and engineering to evaluate and implement customer feedback.
+> Co-designed and maintained an experiential classroom and traveling training kits.  
+> Conducted three-day virtual and on-site training courses.  
+> Coordinated all aspects of training operations: logistics, instructional design, analysis, etc.  
+> Partnered with sales, product management, and engineering to evaluate and implement customer feedback.
 
 ## EDUCATION
 

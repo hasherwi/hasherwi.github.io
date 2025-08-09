@@ -1,0 +1,6 @@
+/* Add half a line of extra leading inside blockquotes */
+blockquote,
+blockquote p,
+blockquote li {
+    line-height: calc(1em + 0.5em); /* = 1.5 lines */
+}
