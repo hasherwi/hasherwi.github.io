@@ -49,18 +49,36 @@ body {
 }
 
 /* Sidebar parts */
-.site-title, .toc-title, .links-title {
+.site-title {
     margin: 0 0 8px 0;
     font-size: 22px;
     line-height: 1.2;
 }
+
+.toc-title, .links-title {
+    margin: 0 0 8px 0;
+    font-size: 18px;
+    line-height: 1.2;
+}
+
 .site-title a { color: inherit; text-decoration: none; }
 
-.site-description { margin: 0 0 16px 0; color: var(--muted); font-size: 14px; }
+.site-description {
+    margin: 0 0 16px 0;
+    color: var(--muted);
+    font-size: 14px;
+}
 
-.social ul, .toc ul { list-style: none; padding: 0; margin: 0; }
+.social ul, .toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
-.social li, .toc li {margin: 6px 0; }
+.social li, .toc li {
+    margin: 6px 0;
+    font-size: smaller;
+}
 
 .toc li { text-transform: capitalize; }
 
