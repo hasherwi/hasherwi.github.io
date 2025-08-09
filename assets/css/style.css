@@ -28,9 +28,27 @@ body {
 }
 
 .sidebar { padding-right: var(--gutter); }
+
 .content { min-width: 0; } /* allow text to wrap nicely */
 
-/* Sidebar bits */
+/* Sidebar sticks to the viewport */
+.sidebar {
+    position: sticky;
+    top: 16px;       /* space from top of viewport */
+    max-height: calc(100vh - 32px); /* viewport height minus top/bottom padding */
+    overflow-y: auto; /* lets TOC scroll independently if too tall */
+    padding-right: var(--gutter);
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 6px;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 3px;
+}
+
+/* Sidebar parts */
 .site-title, .toc-title, .links-title {
     margin: 0 0 8px 0;
     font-size: 22px;
