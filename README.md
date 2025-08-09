@@ -96,17 +96,21 @@
 - AWS Power Hour - DevOps Engineer: Live and Recorded Host Role in a Six Episode Stream
 - AWS Power Hour - Advanced Networking: Live and Recorded Host Role in a Four Episode Stream
 - AWS Power Hour - SysOps: Live and Recorded Guest Role in two episodes of a Six Episode Stream
-*AWS Summit 2022 — Washington, DC*
+
+- *AWS Summit 2022 — Washington, DC*
 - Live On-Stage Breakout Session: “Build the foundation for enterprise innovation with AWS compute”
 - Live On-Stage Spotlight Lab: “Building and deploying containers using Amazon ECS”
 - Live On-Stage Spotlight Lab: “Introduction to Amazon API Gateway”
-*AWS Summit 2021 — Washington, DC*
+
+- *AWS Summit 2021 — Washington, DC*
 - Live On-Stage Breakout Session: “Increase efficiency, reduce risks with storage on AWS” 
-*VMworld 2019 — San Francisco & Barcelona, Live On-Stage & Recorded*
+
+- *VMworld 2019 — San Francisco & Barcelona, Live On-Stage & Recorded*
 - November 2019 in Barcelona: Troubleshooting Connectivity between AWS solutions and VMware Cloud on AWS
 - August 2019 in San Francisco: A Stretched Cluster in VMware Cloud on AWS works how?
 - August 2019 in San Francisco: VMware Cloud on AWS wants to connect to my AWS Account: Deep Dive
-*VMware Learning Zone 2019 — Live Webinar & Recorded*
+
+- *VMware Learning Zone 2019 — Live Webinar & Recorded*
 - June 2019: How is Storage Different in VMware Cloud on AWS
 - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
@@ -143,7 +147,7 @@
 - VMware NSX
 - VMware vSAN
 
-### Selected Amazon Web Services
+### Selected Amazon Web Services {#technical-skills}
 
 - API Gateway
 - Athena
