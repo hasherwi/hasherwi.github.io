@@ -111,89 +111,91 @@ April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
 ## TECHNICAL SKILLS
 
-Asana
-Bash Scripting
-Calico
-Confluence
-containerD
-Docebo
-Docker: Docker CLI, Docker Engine, Dockerhub
-Fluentbit, Fluentd
-Flux (FluxCD)
-Git, GitHub, GitHub Actions
-Go (Golang)
-HTML & CSS
-Helm
-Java
-JavaScript
-Jira
-JSON
-Kubernetes
-Linux (Amazon, Ubuntu, Debian)
-Network Administration
-NoSQL
-Pandas
-Python
-Seismic LMS
-SQL
-Terraform
-VMware Cloud on AWS
-VMware ESXi & vCenter
-VMware NSX
-VMware vSAN
-Selected Amazon Web Services
-API Gateway
-Athena
-Aurora
-Batch
-Certificate Manager (ACM)
-Cloud Development Kit (CDK)
-CloudFormation
-CloudFront
-CloudTrail
-CloudWatch
-CodeBuild, CodeDeploy, CodePipeline
-CodeGuru
-CodeWhisperer
-Cognito
-Config
-Control Tower
-Cost Explorer
-Detective
-Direct Connect
-Elastic File System (EFS)
-Elastic Load Balancing (ELB)
-ElastiCache
-Elastic Compute Cloud (EC2)
-Elastic Container Service (ECS)
-Elastic Kubernetes Service (EKS)
-Fargate
-Firewall Manager
-GuardDuty
-Identity and Access Management (IAM)
-IAM Identity Center
-Inspector
-Key Management Service (KMS)
-Lake Formation
-Lambda
-Macie
-Organizations
-Redshift
-Relational Database Service (RDS)
-Route 53
-SageMaker
-Secrets Manager
-Security Lake
-Service Catalog
-Simple Notification Service (SNS)
-Simple Queue Service (SQS)
-Simple Storage Service (S3)
-Snow Family
-Step Functions
-Systems Manager
-Taskcat
-Transit Gateway
-Virtual Private Cloud (VPC)
-VPN
-WAF
-X-Ray
+- Asana
+- Bash Scripting
+- Calico
+- Confluence
+- containerD
+- Docebo
+- Docker: Docker CLI, Docker Engine, Dockerhub
+- Fluentbit, Fluentd
+- Flux (FluxCD)
+- Git, GitHub, GitHub Actions
+- Go (Golang)
+- HTML & CSS
+- Helm
+- Java
+- JavaScript
+- Jira
+- JSON
+- Kubernetes
+- Linux (Amazon, Ubuntu, Debian)
+- Network Administration
+- NoSQL
+- Pandas
+- Python
+- Seismic LMS
+- SQL
+- Terraform
+- VMware Cloud on AWS
+- VMware ESXi & vCenter
+- VMware NSX
+- VMware vSAN
+
+### Selected Amazon Web Services
+
+- API Gateway
+- Athena
+- Aurora
+- Batch
+- Certificate Manager (ACM)
+- Cloud Development Kit (CDK)
+- CloudFormation
+- CloudFront
+- CloudTrail
+- CloudWatch
+- CodeBuild, CodeDeploy, CodePipeline
+- CodeGuru
+- CodeWhisperer
+- Cognito
+- Config
+- Control Tower
+- Cost Explorer
+- Detective
+- Direct Connect
+- Elastic File System (EFS)
+- Elastic Load Balancing (ELB)
+- ElastiCache
+- Elastic Compute Cloud (EC2)
+- Elastic Container Service (ECS)
+- Elastic Kubernetes Service (EKS)
+- Fargate
+- Firewall Manager
+- GuardDuty
+- Identity and Access Management (IAM)
+- IAM Identity Center
+- Inspector
+- Key Management Service (KMS)
+- Lake Formation
+- Lambda
+- Macie
+- Organizations
+- Redshift
+- Relational Database Service (RDS)
+- Route 53
+- SageMaker
+- Secrets Manager
+- Security Lake
+- Service Catalog
+- Simple Notification Service (SNS)
+- Simple Queue Service (SQS)
+- Simple Storage Service (S3)
+- Snow Family
+- Step Functions
+- Systems Manager
+- Taskcat
+- Transit Gateway
+- Virtual Private Cloud (VPC)
+- VPN
+- WAF
+- X-Ray
