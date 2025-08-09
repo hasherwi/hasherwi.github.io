@@ -63,52 +63,52 @@ Partnered with sales, product management, and engineering to evaluate and implem
 
 ### Amazon Web Services
 
-AWS Certified Specialty x3 - Data Analytics, Databases, & Machine Learning
-AWS Certified Professional - Solutions Architect
-AWS Certified Associate x2 - Data Engineer & Solutions Architect
-Former AWS Authorized Instructor - Mentor & Champion
-Former AWS Certifications - Advanced Networking, Security, DevOps Engineer, Developer, & SysOps Engineer
+- AWS Certified Specialty x3 - Data Analytics, Databases, & Machine Learning
+- AWS Certified Professional - Solutions Architect
+- AWS Certified Associate x2 - Data Engineer & Solutions Architect
+- Former AWS Authorized Instructor - Mentor & Champion
+- Former AWS Certifications - Advanced Networking, Security, DevOps Engineer, Developer, & SysOps Engineer
 
 ### The Linux Foundation
 
-Certified Kubernetes Administrator
-Former Kubernetes and Cloud Native Associate
+- Certified Kubernetes Administrator
+- Former Kubernetes and Cloud Native Associate
 
 ### VMware
 
-Former VMware Certified Instructor
-VMware Specialist - vSAN 2020
-VMware Certified Professional - Data Center Virtualization 2019
-VMware Certified Professional - Network Virtualization 2019
-Certification Subject Matter Expert - VMware Cloud on AWS
-VMware Cloud on AWS - Software Defined Data Center 2019
-VMware Certified Implementation Expert 6.5 - Data Center Virtualization (and prerequisites)
+- Former VMware Certified Instructor
+- VMware Specialist - vSAN 2020
+- VMware Certified Professional - Data Center Virtualization 2019
+- VMware Certified Professional - Network Virtualization 2019
+- Certification Subject Matter Expert - VMware Cloud on AWS
+- VMware Cloud on AWS - Software Defined Data Center 2019
+- VMware Certified Implementation Expert 6.5 - Data Center Virtualization (and prerequisites)
 
 ### Other
 
-CompTIA CTT+ Classroom Trainer Certification
+- CompTIA CTT+ Classroom Trainer Certification
 
 
 ## LIVE EVENTS AND RECORDED TRAININGS
 
-AWS Training Live — Twitch
-Get That Badge! AWS Well-Architected: Live and Recorded Host Role in a Five Episode Stream
-AWS Power Hour: DevOps Engineer: Live and Recorded Host Role in a Six Episode Stream
-AWS Power Hour: Advanced Networking: Live and Recorded Host Role in a Four Episode Stream
-AWS Power Hour: SysOps: Live and Recorded Guest Role in two episodes of a Six Episode Stream
-AWS Summit 2022 — Washington, DC
-Live On-Stage Breakout Session: “Build the foundation for enterprise innovation with AWS compute”
-Live On-Stage Spotlight Lab: “Building and deploying containers using Amazon ECS”
-Live On-Stage Spotlight Lab: “Introduction to Amazon API Gateway”
-AWS Summit 2021 — Washington, DC
-Live On-Stage Breakout Session: “Increase efficiency, reduce risks with storage on AWS”
-VMworld US 2019 — San Francisco & Barcelona, Live On-Stage & Recorded
-November 2019 in Barcelona: Troubleshooting Connectivity between AWS solutions and VMware Cloud on AWS
-August 2019 in San Francisco: A Stretched Cluster in VMware Cloud on AWS works how?
-August 2019 in San Francisco: VMware Cloud on AWS wants to connect to my AWS Account: Deep Dive
-VMware Learning Zone 2019 — Live Webinar & Recorded
-June 2019: How is Storage Different in VMware Cloud on AWS
-April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
+- AWS Training Live — Twitch
+- - Get That Badge! AWS Well-Architected: Live and Recorded Host Role in a Five Episode Stream
+- - AWS Power Hour: DevOps Engineer: Live and Recorded Host Role in a Six Episode Stream
+- - AWS Power Hour: Advanced Networking: Live and Recorded Host Role in a Four Episode Stream
+- - AWS Power Hour: SysOps: Live and Recorded Guest Role in two episodes of a Six Episode Stream
+- AWS Summit 2022 — Washington, DC
+- - Live On-Stage Breakout Session: “Build the foundation for enterprise innovation with AWS compute”
+- - Live On-Stage Spotlight Lab: “Building and deploying containers using Amazon ECS”
+- - Live On-Stage Spotlight Lab: “Introduction to Amazon API Gateway”
+- AWS Summit 2021 — Washington, DC
+- - Live On-Stage Breakout Session: “Increase efficiency, reduce risks with storage on AWS”
+- VMworld 2019 — San Francisco & Barcelona, Live On-Stage & Recorded
+- - November 2019 in Barcelona: Troubleshooting Connectivity between AWS solutions and VMware Cloud on AWS
+- - August 2019 in San Francisco: A Stretched Cluster in VMware Cloud on AWS works how?
+- - August 2019 in San Francisco: VMware Cloud on AWS wants to connect to my AWS Account: Deep Dive
+- VMware Learning Zone 2019 — Live Webinar & Recorded
+- - June 2019: How is Storage Different in VMware Cloud on AWS
+- - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
 ## TECHNICAL SKILLS
 
