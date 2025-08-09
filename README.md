@@ -1,17 +1,19 @@
 # Harrison Sherwin
+
 linkedin.com/in/hsherwin/ | credly.com/users/harrison-sherwin
 
-## SUMMARY
-Practiced training mentor and manager. Experienced cloud engineer, technical trainer, instructional designer, and curriculum architect (10 years). Certified in technical instruction and cloud technologies.
-
 ## SELECTED EXPERIENCE
+
 ### Zoom Video Communications — Technical Enablement Manager
+
 JUNE 2024 – PRESENT: DENVER, CO
 I program manage enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.
 I serve as the subject matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.
 I administer the pre-sales demonstration environment, supporting an average of three tickets per day.
 I collaborate with the sales, product, and partner enablement teams to ensure consistent messaging in all training content.
+
 ### Amazon Web Services — Technical Trainer
+
 SR. TECHNICAL INSTRUCTOR TEAM LEAD / JAN 2023 – JUNE 2024: COLORADO
 SR. TECHNICAL TRAINER / JULY 2022 – JAN 2023: COLORADO
 TECHNICAL TRAINER / JULY 2020 – JULY 2022: COLORADO
@@ -22,7 +24,9 @@ I was the global lead instructor for the “Amazon EKS for Developers” course,
 Delivered over 20 distinct courses to external, partner, and internal students. I specifically focused on public sector customers and strategic accounts. Course topics included Kubernetes, Development, DevOps, Architecture, Security, machine learning, and artificial intelligence, among others.
 Created, advised on, and reviewed other new technical content including self-paced courses, live Twitch series, certification practice exams, and hands-on labs.
 Presented at large-scale public events, including AWS re:Invent and the AWS D.C. Summit.
+
 ### VMware (now part of Broadcom)
+
 SR. TECHNICAL CONTENT DEVELOPER / AUGUST 2018 – JULY 2020: BROOMFIELD, CO
 Co-created and designed the VMware Cloud on AWS: Deploy and Manage three-day course.
 Led train-the-trainer sessions, on-demand recordings, and maintenance of the course.
@@ -34,7 +38,9 @@ TECHNICAL SUPPORT TRAINING SPECIALIST / FEBRUARY 2017 – AUGUST 2018: BROOMFIEL
 Instructed new-hire support engineers on VMware vSphere in live and virtual week-long courses.
 Co-designed an onboarding program for support engineers focused on job roles and time to first case resolution.
 Redesigned a hands-on workshop to teach troubleshooting skills, provide practical experience, and decrease case resolution time.
+
 ### Clare Controls (now part of SnapAV)
+
 TRAINER / MAY 2015 – JANUARY 2017: SARASOTA, FL
 JR. TRAINER / MAY 2014 – MAY 2015: SARASOTA, FL
 Co-designed and maintained an experiential classroom and traveling training kits.
@@ -43,22 +49,32 @@ Coordinated all aspects of training operations: logistics, instructional design,
 Partnered with sales, product management, and engineering to evaluate and implement customer feedback.
 
 ## EDUCATION
+
 ### Regis University, Denver, CO — B.S. in Computer Science
+
 2020 – 2025 (Expected)
+
 ### State College of Florida, Bradenton, FL — A.A.
+
 2014 – 2015
 
 ## SELECTED CERTIFICATIONS
+
 ### Amazon Web Services
+
 AWS Certified Specialty x3 - Data Analytics, Databases, & Machine Learning
 AWS Certified Professional - Solutions Architect
 AWS Certified Associate x2 - Data Engineer & Solutions Architect
 Former AWS Authorized Instructor - Mentor & Champion
 Former AWS Certifications - Advanced Networking, Security, DevOps Engineer, Developer, & SysOps Engineer
+
 ### The Linux Foundation
+
 Certified Kubernetes Administrator
 Former Kubernetes and Cloud Native Associate
+
 ### VMware
+
 Former VMware Certified Instructor
 VMware Specialist - vSAN 2020
 VMware Certified Professional - Data Center Virtualization 2019
@@ -66,11 +82,14 @@ VMware Certified Professional - Network Virtualization 2019
 Certification Subject Matter Expert - VMware Cloud on AWS
 VMware Cloud on AWS - Software Defined Data Center 2019
 VMware Certified Implementation Expert 6.5 - Data Center Virtualization (and prerequisites)
+
 ### Other
+
 CompTIA CTT+ Classroom Trainer Certification
 
 
 ## LIVE EVENTS AND RECORDED TRAININGS
+
 AWS Training Live — Twitch
 Get That Badge! AWS Well-Architected: Live and Recorded Host Role in a Five Episode Stream
 AWS Power Hour: DevOps Engineer: Live and Recorded Host Role in a Six Episode Stream
@@ -91,6 +110,7 @@ June 2019: How is Storage Different in VMware Cloud on AWS
 April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
 ## TECHNICAL SKILLS
+
 Asana
 Bash Scripting
 Calico
