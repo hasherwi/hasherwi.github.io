@@ -31,12 +31,13 @@ body {
 .content { min-width: 0; } /* allow text to wrap nicely */
 
 /* Sidebar bits */
-.site-title {
+.site-title, .toc-title, .links-title {
     margin: 0 0 8px 0;
     font-size: 22px;
     line-height: 1.2;
 }
 .site-title a { color: inherit; text-decoration: none; }
+
 .site-description { margin: 0 0 16px 0; color: var(--muted); font-size: 14px; }
 
 .social ul { list-style: none; padding: 0; margin: 0; }
