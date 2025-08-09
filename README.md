@@ -110,7 +110,7 @@
 - - June 2019: How is Storage Different in VMware Cloud on AWS
 - - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
-## TECHNICAL SKILLS
+## TECHNICAL SKILLS {#technical-skills}
 
 - Asana
 - Bash Scripting
