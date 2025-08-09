@@ -42,24 +42,29 @@ body {
 .social ul { list-style: none; padding: 0; margin: 0; }
 .social li { margin: 6px 0; }
 
-.social a {
-    color: var(--link);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    display: flex;
-    align-items: center;
-    gap: 8px; /* space between icon and text */
-}
-
 .social a:hover { border-bottom-color: currentColor; }
 
-.icon {
-    width: 16px;
-    height: 16px;
-    fill: #888; /* grey icons */
-    flex-shrink: 0;
+/* Social links: icon sizing + opacity */
+.social a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
+.icon {
+    width: 1em;          /* match text height */
+    height: 1em;         /* match text height */
+    flex-shrink: 0;
+    fill: currentColor;  /* inherit link color */
+    color: #888;         /* grey */
+    opacity: 0.5;        /* 50% opacity */
+}
+
+/* Optional: a little feedback on hover/focus */
+.social a:hover .icon,
+.social a:focus-visible .icon {
+    opacity: 0.75;
+}
 
 /* Content typography */
 .content h1, .content h2, .content h3 {
@@ -80,6 +85,19 @@ body {
 .content blockquote li {
     line-height: calc(1em + 0.5em); /* 1.5 lines */
 }
+
+/* Ensure only one marker is shown and control nested styles */
+.content ul,
+.content ol { padding-left: 1.25em; }               /* indent lists */
+.content li::before { content: none !important; }   /* remove pseudo bullets if any */
+
+/* Proper marker types for nested ULs */
+.content ul { list-style: disc outside; }
+.content ul ul { list-style: circle outside; }
+.content ul ul ul { list-style: square outside; }
+
+/* (Optional) tighten spacing a touch */
+.content li { margin: 0.2em 0; }
 
 /* Code & lists */
 code { background: #f6f8fa; padding: 0.15em 0.35em; border-radius: 4px; }
