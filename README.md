@@ -18,7 +18,7 @@
 > Managed and mentored a team of Technical Instructors tracking individual KPIs.
 > Assisted in strategic planning to meet global demand for training courses, creating a dashboard to track the supply of unique instructor skills against the demand of specialized customers.  
 > Advised enterprise and public sector customers on the direction of their training and implementations as a SME during the pre-sales process. My particular focus was the public sector, the intelligence community, and open-source software.  
-> I was the global lead instructor for the “Amazon EKS for Developers” course, which required me to consult on the direction of new training products and updates, while also assisting new trainers with that and related courses.  
+> I was a global lead instructor for all Amazon EKS courses, which required me to consult on the direction of new training products and updates, while also assisting new trainers with that and related courses [(Example Course: Running Containers on Amazon EKS)](https://drive.google.com/file/d/1Pc9A_8zyiezrhP3q6m_vG5mmGRwyqTTn/view?usp=sharing).  
 > Delivered over 20 distinct courses to external, partner, and internal students. I specifically focused on public sector customers and strategic accounts. Course topics included Kubernetes, Development, DevOps, Architecture, Security, machine learning, and artificial intelligence, among others.  
 > Created, advised on, and reviewed other new technical content including self-paced courses, live Twitch series, certification practice exams, and hands-on labs.  
 > Presented at large-scale public events, including AWS re:Invent and the AWS D.C. Summit.
@@ -27,7 +27,7 @@
 
 *SR. TECHNICAL CONTENT DEVELOPER: AUGUST 2018 – JULY 2020; BROOMFIELD, CO*
 
-> Co-created and designed the VMware Cloud on AWS: Deploy and Manage three-day course.  
+> Co-created and designed the [VMware Cloud on AWS: Deploy and Manage](https://drive.google.com/drive/folders/1QDQqiRwbu677rIBCc56sKFGKvX6Gwqfm?usp=sharing) three-day course.  
 > Led train-the-trainer sessions, on-demand recordings, and maintenance of the course.  
 > Advised other teams on cloud education strategies.  
 > Co-authored the VMware Cloud on AWS Management Exam 2019.  
@@ -60,7 +60,7 @@
 
 *2014 – 2015*
 
-## Selected Certifications
+## [Selected Certifications](credly.com/users/harrison-sherwin)
 
 ### Amazon Web Services
 
@@ -94,6 +94,7 @@
 *AWS Training Live — Twitch*
 - Get That Badge! AWS Well-Architected: Live and Recorded Host Role in a Five Episode Stream
 - AWS Power Hour - DevOps Engineer: Live and Recorded Host Role in a Six Episode Stream
+  - [Backup Recording of Episode 1](https://drive.google.com/file/d/1_SUIsnmElr_h8kYb0UUW8x09rzlJR3VQ/view?usp=sharing) 
 - AWS Power Hour - Advanced Networking: Live and Recorded Host Role in a Four Episode Stream
 - AWS Power Hour - SysOps: Live and Recorded Guest Role in two episodes of a Six Episode Stream
 
@@ -106,13 +107,15 @@
 - Live On-Stage Breakout Session: “Increase efficiency, reduce risks with storage on AWS” 
 
 *VMworld 2019 — San Francisco & Barcelona, Live On-Stage & Recorded*
-- November 2019 in Barcelona: Troubleshooting Connectivity between AWS solutions and VMware Cloud on AWS
-- August 2019 in San Francisco: A Stretched Cluster in VMware Cloud on AWS works how?
-- August 2019 in San Francisco: VMware Cloud on AWS wants to connect to my AWS Account: Deep Dive
+- [November 2019 in Barcelona: Troubleshooting Connectivity between AWS solutions and VMware Cloud on AWS](https://drive.google.com/file/d/1Qvic1nn9Zm0JedmSIF-_dOvEGLGJKBBs/view?usp=sharing)
+- [August 2019 in San Francisco: A Stretched Cluster in VMware Cloud on AWS works how?](https://drive.google.com/file/d/1C9iqucrVWbc8tkgfZr1RivGjlI-Igcio/view?usp=sharing)
+- [August 2019 in San Francisco: VMware Cloud on AWS wants to connect to my AWS Account: Deep Dive](https://drive.google.com/file/d/14o-MeOD2xZdJD4BaupOjt2HKK2IVBK-f/view?usp=sharing)
 
 *VMware Learning Zone 2019 — Live Webinar & Recorded*
 - June 2019: How is Storage Different in VMware Cloud on AWS
 - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
+
+
 
 ## Technical Skills {#technical-skills}
 

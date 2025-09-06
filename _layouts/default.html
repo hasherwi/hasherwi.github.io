@@ -59,6 +59,7 @@
             </main>
         </div>
 
+        <!-- Creates a Table of Contents -->
         <script>
             (function () {
                 const content = document.querySelector('.content');
@@ -96,6 +97,38 @@
                     a.textContent = h.textContent;
                     li.appendChild(a);
                     tocList.appendChild(li);
+                });
+            })();
+        </script>
+
+        <!-- Creates collapsible sections -->
+        <script>
+            (function () {
+                const content = document.querySelector('.content');
+                if (!content) return;
+
+                const h2s = Array.from(content.querySelectorAll(':scope > h2, :scope section > h2, :scope div > h2'));
+                h2s.forEach((h2) => {
+                    if (h2.closest('details')) return;
+
+                    const details = document.createElement('details');
+                    details.className = 'fold';
+                    details.open = true; // change to false to start collapsed
+
+                    const summary = document.createElement('summary');
+                    summary.appendChild(h2);           // move the original h2 into the summary
+                    details.appendChild(summary);
+
+                    // Insert details at the original h2 position
+                    content.insertBefore(details, summary);
+
+                    // Move all following siblings until the next h2 into this details
+                    let node = details.nextSibling;
+                    while (node && !(node.tagName && node.tagName.toLowerCase() === 'h2')) {
+                        const next = node.nextSibling;
+                        details.appendChild(node);
+                        node = next;
+                    }
                 });
             })();
         </script>
