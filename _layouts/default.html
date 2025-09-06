@@ -107,22 +107,31 @@
                 const content = document.querySelector('.content');
                 if (!content) return;
 
-                const h2s = Array.from(content.querySelectorAll(':scope > h2, :scope section > h2, :scope div > h2'));
-                h2s.forEach((h2) => {
-                    if (h2.closest('details')) return;
+                // Find top-level H2s within the content area
+                const h2s = Array.from(
+                    content.querySelectorAll(':scope > h2, :scope section > h2, :scope div > h2')
+                );
 
+                h2s.forEach((h2) => {
+                    if (h2.closest('details')) return; // idempotent
+
+                    const parent = h2.parentNode;
+
+                    // Build <details><summary>…</summary>…</details>
                     const details = document.createElement('details');
                     details.className = 'fold';
-                    details.open = true; // change to false to start collapsed
+                    details.open = true; // set to false if you want collapsed-by-default
 
                     const summary = document.createElement('summary');
-                    summary.appendChild(h2);           // move the original h2 into the summary
                     details.appendChild(summary);
 
-                    // Insert details at the original h2 position
-                    content.insertBefore(details, summary);
+                    // Insert <details> where the H2 currently is
+                    parent.insertBefore(details, h2);
 
-                    // Move all following siblings until the next h2 into this details
+                    // Move the H2 into <summary>
+                    summary.appendChild(h2);
+
+                    // Move following siblings up to (but not including) the next H2 into <details>
                     let node = details.nextSibling;
                     while (node && !(node.tagName && node.tagName.toLowerCase() === 'h2')) {
                         const next = node.nextSibling;
@@ -130,7 +139,19 @@
                         node = next;
                     }
                 });
+
+                // If a TOC/hash link targets a header inside a collapsed section, open it
+                const openHashTarget = () => {
+                    const id = location.hash && location.hash.slice(1);
+                    if (!id) return;
+                    const target = document.getElementById(id);
+                    const det = target && target.closest('details');
+                    if (det) det.open = true;
+                };
+                window.addEventListener('hashchange', openHashTarget);
+                openHashTarget();
             })();
         </script>
+
     </body>
 </html>
