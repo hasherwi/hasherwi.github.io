@@ -161,6 +161,15 @@ pre {
     padding-left: 0.5em;
 }
 
+/* For collapsible sections */
+details.fold { border: 1px solid #e5e7eb; border-radius: 10px; margin: 16px 0; }
+details.fold > summary { padding: 12px 14px; cursor: pointer; display: flex; align-items: center; gap: 8px; }
+details.fold > summary::-webkit-details-marker { display: none; }
+details.fold > summary::before { content: "▶"; transition: transform .2s; }
+details.fold[open] > summary::before { transform: rotate(90deg); }
+details.fold > :not(summary) { padding: 12px 14px; border-top: 1px solid #f1f5f9; }
+details.fold summary h2 { margin: 0; font-size: 1.1rem; line-height: 1.2; }
+
 /* Slightly larger tap target for sidebar links on touch */
 @media (hover: none) {
     .social a, .toc a {
