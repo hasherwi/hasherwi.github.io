@@ -2,12 +2,12 @@
 
 ### Zoom Video Communications
 
-*TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – PRESENT; DENVER, CO*
+*TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – SEPT 2025; DENVER, CO*
 
-> I program manage enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.  
-> I serve as the subject-matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.  
-> I administer the pre-sales demonstration environment, supporting an average of three tickets per day.  
-> I collaborate with the sales, product, and partner enablement teams to ensure consistent messaging in all training content.
+> I program managed enablement for all Solution Engineers and Technical Solution Architects in the Americas, supporting over 15,000 live enablement engagements since my hire.  
+> I served as the subject-matter expert (SME) on technical education to guide product SMEs on how to best convey concepts for enablement.  
+> I administered the pre-sales demonstration environment, supporting an average of three tickets per day.  
+> I collaborated with the sales, product, and partner enablement teams to ensure consistent messaging in all training content.
 
 ### Amazon Web Services
 
