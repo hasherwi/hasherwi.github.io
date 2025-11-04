@@ -1,5 +1,15 @@
 ## Selected Experience
 
+### Akeyless Security
+
+*PRODUCT EDUCATION SPECIALIST: SEPT 2025 – PRESENT; REMOTE (USA)*
+> Reporting to the CTO, I am principally responsible for all efforts to educate customers on Akeyless' products. This includes, but is not limited to:
+> - Technical Documentation
+> - Product Tutorials
+> - In-Product Support
+> - Pre-Sales Technical Content
+> - Customer Onboarding
+
 ### Zoom Video Communications
 
 *TECHNICAL ENABLEMENT MANAGER: JUNE 2024 – SEPT 2025; DENVER, CO*
@@ -11,9 +21,9 @@
 
 ### Amazon Web Services
 
-*SR. TECHNICAL INSTRUCTOR TEAM LEAD: JAN 2023 – JUNE 2024; COLORADO*  
-*SR. TECHNICAL TRAINER: JULY 2022 – JAN 2023; COLORADO*  
-*TECHNICAL TRAINER: JULY 2020 – JULY 2022; COLORADO*
+*SR. TECHNICAL INSTRUCTOR TEAM LEAD: JAN 2023 – JUNE 2024; REMOTE (COLORADO, USA)*  
+*SR. TECHNICAL TRAINER: JULY 2022 – JAN 2023; REMOTE (COLORADO, USA)*  
+*TECHNICAL TRAINER: JULY 2020 – JULY 2022; REMOTE (COLORADO, USA)*
 
 > Managed and mentored a team of Technical Instructors tracking individual KPIs.
 > Assisted in strategic planning to meet global demand for training courses, creating a dashboard to track the supply of unique instructor skills against the demand of specialized customers.  
