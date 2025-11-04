@@ -131,7 +131,7 @@ body {
 /* Proper marker types for nested ULs */
 .content ul {
     list-style: disc outside;
-    padding-left: 1em;
+    padding-left: 3em;
 }
 .content ul ul { list-style: circle outside; }
 .content ul ul ul { list-style: square outside; }
