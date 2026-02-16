@@ -4,9 +4,9 @@
     --muted: #666;
     --link: #0366d6;
     --bg: #fff;
-    --sidebar-width: 240px; /* thin column */
+    --sidebar-width: 260px; /* slightly wider for better spacing */
     --gutter: 24px;
-    --max-width: 1000px;    /* keeps lines readable on huge screens */
+    --max-width: 1100px;    /* slightly wider for better readability */
 }
 
 * { box-sizing: border-box; }
