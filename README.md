@@ -64,7 +64,7 @@
 
 ### Regis University, Denver, CO — B.S. in Computer Science
 
-*2020 – 2025*
+*2020 – 2026 (Expected)*
 
 ### State College of Florida, Bradenton, FL — A.A.
 
