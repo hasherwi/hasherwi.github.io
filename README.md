@@ -64,13 +64,13 @@
 
 ### Regis University, Denver, CO — B.S. in Computer Science
 
-*2020 – 2025 (Expected)*
+*2020 – 2026 (Expected)*
 
 ### State College of Florida, Bradenton, FL — A.A.
 
 *2014 – 2015*
 
-## [Selected Certifications](credly.com/users/harrison-sherwin)
+## [Selected Certifications](https://credly.com/users/harrison-sherwin)
 
 ### Amazon Web Services
 
