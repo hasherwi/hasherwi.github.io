@@ -125,6 +125,9 @@
 - June 2019: How is Storage Different in VMware Cloud on AWS
 - April 2019: Configuring and Understanding Elastic DRS for VMware Cloud on AWS
 
+*C-Vision International CIO & CISO Think Tank — Dallas, TX*
+- April 2026: Live On-Stage Panelist: "Securing the Rise of Agentic AI: Trust, Control, and Resilience in Autonomous Systems"
+
 
 
 ## Technical Skills {#technical-skills}
