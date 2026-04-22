@@ -9,6 +9,7 @@
 > - In-Product Support
 > - Pre-Sales Technical Content
 > - Customer Onboarding
+> - Represent Akeyless at C-level speaking events
 
 ### Zoom Video Communications
 
@@ -64,7 +65,7 @@
 
 ### Regis University, Denver, CO — B.S. in Computer Science
 
-*2020 – 2026 (Expected)*
+*2020 – May 2026*
 
 ### State College of Florida, Bradenton, FL — A.A.
 
