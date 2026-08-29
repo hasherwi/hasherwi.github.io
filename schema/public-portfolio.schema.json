@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["metadata", "person", "experience", "impact", "speaking", "certifications", "education"],
+  "properties": {
+    "metadata": {"type": "object", "required": ["schema_version", "source_profile", "generated_at", "provenance"]},
+    "person": {"type": "object", "required": ["name", "headline", "summary", "location", "links"]},
+    "experience": {"type": "array", "minItems": 5, "items": {"$ref": "#/$defs/contentRecord"}},
+    "impact": {"type": "array", "minItems": 6, "items": {"$ref": "#/$defs/contentRecord"}},
+    "speaking": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/contentRecord"}},
+    "certifications": {"type": "array", "minItems": 4, "items": {"$ref": "#/$defs/contentRecord"}},
+    "education": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/contentRecord"}}
+  },
+  "$defs": {
+    "contentRecord": {
+      "type": "object",
+      "required": ["record_id", "treatment"],
+      "properties": {
+        "record_id": {"type": "string", "pattern": "^(EMP|ACC|EVT|CERT|EDU)-[0-9]{4}$"},
+        "treatment": {"enum": ["primary", "supporting"]},
+        "approved_public_url": {"type": "string", "format": "uri"}
+      }
+    }
+  }
+}
+

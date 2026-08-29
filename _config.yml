@@ -1,5 +1,13 @@
-theme: jekyll-theme-minimal
 title: Harrison Sherwin
-description: "Practiced training mentor and manager. Experienced cloud engineer, technical trainer, instructional designer, and curriculum architect (11 years). Certified in technical instruction and cloud technologies."
+description: Technical enablement program manager, educator, and content leader working across cloud and security.
+url: https://hasherwi.github.io
+theme: jekyll-theme-minimal
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - requirements-dev.txt
+  - scripts
+  - schema
 
-github_username: hasherwi

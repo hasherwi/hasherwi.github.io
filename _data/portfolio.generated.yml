@@ -1,0 +1,144 @@
+metadata:
+  schema_version: 1
+  source_profile: Public Portfolio v1
+  generated_at: "2026-08-28"
+  provenance: "Career History workbook → approved publishing controls → sanitized public artifact"
+  notice: "Generated file. Edit the career workbook or site templates, not career facts here."
+
+person:
+  name: Harrison Sherwin
+  headline: Technical Enablement Program Manager · Cloud & Security Education
+  summary: >-
+    Technical enablement leader who turns complex cloud and security products into
+    scalable onboarding, launch readiness, continuous learning, documentation,
+    technical instruction, and expert-development programs.
+  location: Arvada, Colorado
+  links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/hsherwin
+    - label: Credly
+      url: https://www.credly.com/users/harrison-sherwin
+
+experience:
+  - record_id: EMP-0001
+    treatment: primary
+    title: Senior Technical Enablement Program Manager, Wiz — Google LLC
+    dates: Jul 2026–Present
+    summary: Program-manage enablement for Support Engineers across the Wiz product portfolio, including onboarding, product changes, launches, and continuous learning.
+  - record_id: EMP-0002
+    treatment: primary
+    title: Product Education Specialist — Akeyless Security
+    dates: Sep 2025–Jul 2026
+    summary: Managed product education across documentation, tutorials, CLI help, and in-product tooltips.
+  - record_id: EMP-0003
+    treatment: primary
+    title: Technical Enablement Manager — Zoom Video Communications
+    dates: Jun 2024–Sep 2025
+    summary: Program-managed enablement for Solution Engineers and Technical Solution Architects in the Americas.
+  - record_id: EMP-0004
+    treatment: primary
+    title: Senior Technical Instructor Team Lead — Amazon Web Services
+    dates: Jul 2020–Jun 2024
+    summary: Led and mentored Technical Instructors and supported global technical-training strategy.
+  - record_id: EMP-0007
+    treatment: supporting
+    title: Senior Technical Content Developer — VMware
+    dates: Feb 2017–Jul 2020
+    summary: Designed cloud curriculum, exams, train-the-trainer programs, and conference sessions.
+
+impact:
+  - record_id: ACC-0001
+    treatment: primary
+    title: Program management — Google LLC
+    summary: Program-manage the full enablement lifecycle for Support Engineers across the Wiz product portfolio.
+  - record_id: ACC-0003
+    treatment: primary
+    title: Documentation — Akeyless Security
+    summary: Reauthored documentation for seven products, using automation and AI to deliver consistent results at speed and scale.
+  - record_id: ACC-0004
+    treatment: primary
+    title: Scale — Zoom Video Communications
+    summary: Program-managed enablement supporting more than 15,000 live engagements for Americas solution-engineering audiences.
+  - record_id: ACC-0006
+    treatment: primary
+    title: Instructional strategy — Zoom Video Communications
+    summary: Served as technical-education SME, coaching product experts to translate complex concepts into effective enablement.
+  - record_id: ACC-0007
+    treatment: supporting
+    title: Assessment design — VMware / Broadcom
+    summary: Contributed subject-matter expertise to the Associate VMware Data Center Virtualization certification exam.
+    approved_public_url: https://docs.broadcom.com/doc/vmw-vcta-dcv-exam-preparation-guide
+  - record_id: ACC-0008
+    treatment: primary
+    title: Leadership — Amazon Web Services
+    summary: Managed and mentored Technical Instructors while tracking individual performance indicators.
+  - record_id: ACC-0010
+    treatment: primary
+    title: Subject-matter leadership — Amazon Web Services
+    summary: Led instruction globally for the Amazon EKS course portfolio and advised on product direction and trainer readiness.
+  - record_id: ACC-0013
+    treatment: supporting
+    title: Curriculum — VMware
+    summary: "Co-created VMware Cloud on AWS: Deploy and Manage, a three-day technical course."
+  - record_id: ACC-0028
+    treatment: primary
+    title: Audience scale — Amazon Web Services
+    summary: Owned an AWS Power Hour series end to end, delivering technically accurate, engaging livestream content to 21,144 global learners.
+    approved_public_url: https://www.linkedin.com/posts/hsherwin_our-aws-power-hour-devops-engineer-series-activity-7086850580513480704-dVW3
+  - record_id: ACC-0034
+    treatment: primary
+    title: Security and curriculum — Amazon Web Services
+    summary: Remediated an insecure training template that created a public S3 bucket, reducing risk and accelerating instructor readiness.
+
+speaking:
+  - record_id: EVT-0001
+    treatment: primary
+    title: C-Vision International CIO & CISO Think Tank
+    date: Apr 21, 2026
+    summary: "On-stage panelist: Securing the Rise of Agentic AI: Trust, Control, and Resilience in Autonomous Systems"
+    approved_public_url: https://www.cvisionintl.com/events/think-tank/2026-apr-21-cio-ciso-tt-dallas/live-event/
+  - record_id: EVT-0003
+    treatment: primary
+    title: "AWS Power Hour: DevOps Engineer"
+    date: Jul–Aug 2023
+    summary: Host and instructor for a six-episode series reaching 21,144 global learners.
+    approved_public_url: https://www.linkedin.com/posts/hsherwin_our-aws-power-hour-devops-engineer-series-activity-7086850580513480704-dVW3
+  - record_id: EVT-0016
+    treatment: primary
+    title: Preparing for the 47-Day Certificate Era
+    date: Jun 18, 2026
+    summary: Speaker and live demonstrator for automated certificate lifecycle management.
+    approved_public_url: https://www.akeyless.io/webinars/preparing-for-the-47-day-certificate-era/
+
+certifications:
+  - record_id: CERT-0046
+    treatment: supporting
+    issuer: Wiz
+    title: Wiz Certified Cloud Fundamentals Certification
+    status: Active · Aug 2026–Aug 2028
+    approved_public_url: https://certified.training.wiz.io/ddca23ed-ff72-43e8-aed1-163b3995f0e9
+  - record_id: CERT-0002
+    treatment: primary
+    issuer: Amazon Web Services
+    title: AWS Certified Solutions Architect – Professional
+    status: Active · May 2021–Mar 2027
+    approved_public_url: https://www.credly.com/go/2mryEHsDx4PN1gg0q5sMoQ
+  - record_id: CERT-0013
+    treatment: primary
+    issuer: The Linux Foundation / CNCF
+    title: Certified Kubernetes Administrator
+    status: Active · Sep 2023–Sep 2026
+    approved_public_url: https://www.credly.com/go/JEy4uW66dzNilFK1nqr7sw
+  - record_id: CERT-0023
+    treatment: supporting
+    issuer: CompTIA
+    title: CompTIA CTT+ Classroom Trainer
+    status: Active · Non-expiring · Earned Apr 2018
+    approved_public_url: https://www.linkedin.com/in/hsherwin
+
+education:
+  - record_id: EDU-0001
+    treatment: supporting
+    institution: Regis University
+    credential: Bachelor of Science in Computer Science
+    date: Conferred May 2026
