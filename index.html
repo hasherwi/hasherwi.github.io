@@ -1,0 +1,104 @@
+---
+layout: default
+title: Harrison Sherwin · Technical Enablement Program Manager
+---
+{% assign portfolio = site.data.portfoliogenerated %}
+
+<header class="hero">
+  <p class="eyebrow">Cloud · Security · Technical Education</p>
+  <h1>{{ portfolio.person.name }}</h1>
+  <p class="headline">{{ portfolio.person.headline }}</p>
+  <p class="summary">{{ portfolio.person.summary }}</p>
+  <p class="location">{{ portfolio.person.location }}</p>
+  <nav class="profile-links" aria-label="Professional profiles">
+    {% for link in portfolio.person.links %}
+      <a class="external-link" href="{{ link.url }}" rel="noopener noreferrer">{{ link.label }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<section aria-labelledby="impact-heading">
+  <div class="section-heading">
+    <p class="eyebrow">Selected outcomes</p>
+    <h2 id="impact-heading">Impact across four career lenses</h2>
+  </div>
+  <div class="card-grid impact-grid">
+    {% for item in portfolio.impact %}
+      <article class="card card--{{ item.treatment }}">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.summary }}</p>
+        {% if item.approved_public_url %}
+          <a class="external-link evidence-link" href="{{ item.approved_public_url }}" rel="noopener noreferrer">Public evidence</a>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section aria-labelledby="experience-heading">
+  <div class="section-heading">
+    <p class="eyebrow">Career chronology</p>
+    <h2 id="experience-heading">Selected experience</h2>
+  </div>
+  <div class="timeline">
+    {% for role in portfolio.experience %}
+      <article class="timeline-item">
+        <p class="timeline-date">{{ role.dates }}</p>
+        <div>
+          <h3>{{ role.title }}</h3>
+          <p>{{ role.summary }}</p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section aria-labelledby="speaking-heading">
+  <div class="section-heading">
+    <p class="eyebrow">Public instruction</p>
+    <h2 id="speaking-heading">Speaking and recorded programs</h2>
+  </div>
+  <div class="card-grid">
+    {% for event in portfolio.speaking %}
+      <article class="card">
+        <p class="card-date">{{ event.date }}</p>
+        <h3>{{ event.title }}</h3>
+        <p>{{ event.summary }}</p>
+        <a class="external-link evidence-link" href="{{ event.approved_public_url }}" rel="noopener noreferrer">Public evidence</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section aria-labelledby="credentials-heading">
+  <div class="section-heading">
+    <p class="eyebrow">Current technical credibility</p>
+    <h2 id="credentials-heading">Selected certifications</h2>
+  </div>
+  <div class="card-grid credential-grid">
+    {% for credential in portfolio.certifications %}
+      <article class="card credential-card">
+        <p class="credential-issuer">{{ credential.issuer }}</p>
+        <h3>{{ credential.title }}</h3>
+        <p>{{ credential.status }}</p>
+        <a class="external-link evidence-link" href="{{ credential.approved_public_url }}" rel="noopener noreferrer">Verify credential</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section aria-labelledby="education-heading">
+  <div class="section-heading">
+    <p class="eyebrow">Education</p>
+    <h2 id="education-heading">Completed degree</h2>
+  </div>
+  {% for degree in portfolio.education %}
+    <article class="education-row">
+      <div>
+        <h3>{{ degree.institution }}</h3>
+        <p>{{ degree.credential }}</p>
+      </div>
+      <p>{{ degree.date }}</p>
+    </article>
+  {% endfor %}
+</section>
