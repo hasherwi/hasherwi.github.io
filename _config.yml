@@ -10,4 +10,4 @@ exclude:
   - requirements-dev.txt
   - scripts
   - schema
-
+  - vendor
