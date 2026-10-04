@@ -1,7 +1,7 @@
 metadata:
   schema_version: 1
   source_profile: Public Portfolio v1
-  generated_at: "2026-08-28"
+  generated_at: "2026-10-04"
   provenance: "Career History workbook → approved publishing controls → sanitized public artifact"
   notice: "Generated file. Edit the career workbook or site templates, not career facts here."
 
@@ -38,12 +38,12 @@ experience:
   - record_id: EMP-0004
     treatment: primary
     title: Senior Technical Instructor Team Lead — Amazon Web Services
-    dates: Jul 2020–Jun 2024
+    dates: Jan 2023–Jun 2024
     summary: Led and mentored Technical Instructors and supported global technical-training strategy.
   - record_id: EMP-0007
     treatment: supporting
     title: Senior Technical Content Developer — VMware
-    dates: Feb 2017–Jul 2020
+    dates: Aug 2018–Jul 2020
     summary: Designed cloud curriculum, exams, train-the-trainer programs, and conference sessions.
 
 impact:
@@ -123,12 +123,6 @@ certifications:
     title: AWS Certified Solutions Architect – Professional
     status: Active · May 2021–Mar 2027
     approved_public_url: https://www.credly.com/go/2mryEHsDx4PN1gg0q5sMoQ
-  - record_id: CERT-0013
-    treatment: primary
-    issuer: The Linux Foundation / CNCF
-    title: Certified Kubernetes Administrator
-    status: Active · Sep 2023–Sep 2026
-    approved_public_url: https://www.credly.com/go/JEy4uW66dzNilFK1nqr7sw
   - record_id: CERT-0023
     treatment: supporting
     issuer: CompTIA
