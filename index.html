@@ -15,12 +15,22 @@ title: Harrison Sherwin · Technical Enablement Program Manager
       <a class="external-link" href="{{ link.url }}" rel="noopener noreferrer">{{ link.label }}</a>
     {% endfor %}
   </nav>
+  <nav class="section-nav" aria-label="On this page">
+    <p class="section-nav-label">On this page</p>
+    <ul class="section-nav-list">
+      <li><a href="#impact-heading">Impact</a></li>
+      <li><a href="#experience-heading">Experience</a></li>
+      <li><a href="#speaking-heading">Speaking</a></li>
+      <li><a href="#credentials-heading">Certifications</a></li>
+      <li><a href="#education-heading">Education</a></li>
+    </ul>
+  </nav>
 </header>
 
 <section aria-labelledby="impact-heading">
   <div class="section-heading">
     <p class="eyebrow">Selected outcomes</p>
-    <h2 id="impact-heading">Impact across four career lenses</h2>
+    <h2 id="impact-heading" tabindex="-1">Impact across four career lenses</h2>
   </div>
   <div class="card-grid impact-grid">
     {% for item in portfolio.impact %}
@@ -38,7 +48,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
 <section aria-labelledby="experience-heading">
   <div class="section-heading">
     <p class="eyebrow">Career chronology</p>
-    <h2 id="experience-heading">Selected experience</h2>
+    <h2 id="experience-heading" tabindex="-1">Selected experience</h2>
   </div>
   <div class="timeline">
     {% for role in portfolio.experience %}
@@ -56,7 +66,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
 <section aria-labelledby="speaking-heading">
   <div class="section-heading">
     <p class="eyebrow">Public instruction</p>
-    <h2 id="speaking-heading">Speaking and recorded programs</h2>
+    <h2 id="speaking-heading" tabindex="-1">Speaking and recorded programs</h2>
   </div>
   <div class="card-grid">
     {% for event in portfolio.speaking %}
@@ -73,7 +83,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
 <section aria-labelledby="credentials-heading">
   <div class="section-heading">
     <p class="eyebrow">Current technical credibility</p>
-    <h2 id="credentials-heading">Selected certifications</h2>
+    <h2 id="credentials-heading" tabindex="-1">Selected certifications</h2>
   </div>
   <div class="card-grid credential-grid">
     {% for credential in portfolio.certifications %}
@@ -90,7 +100,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
 <section aria-labelledby="education-heading">
   <div class="section-heading">
     <p class="eyebrow">Education</p>
-    <h2 id="education-heading">Completed degree</h2>
+    <h2 id="education-heading" tabindex="-1">Completed degree</h2>
   </div>
   {% for degree in portfolio.education %}
     <article class="education-row">

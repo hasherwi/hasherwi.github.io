@@ -25,3 +25,4 @@ jobs:
           ruby-version: "3.1"
           bundler-cache: true
       - run: bundle exec jekyll build --strict_front_matter
+      - run: python -m unittest discover -s tests -v
