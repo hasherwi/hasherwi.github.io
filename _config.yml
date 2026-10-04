@@ -10,4 +10,5 @@ exclude:
   - requirements-dev.txt
   - scripts
   - schema
+  - tests
   - vendor

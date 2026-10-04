@@ -25,7 +25,7 @@ body {
 }
 
 a { color: var(--link); }
-a:focus-visible { outline: 3px solid #f0a400; outline-offset: 4px; border-radius: 2px; }
+a:focus-visible, h2:focus-visible { outline: 3px solid #f0a400; outline-offset: 4px; border-radius: 2px; }
 
 .skip-link {
   position: absolute;
@@ -68,6 +68,23 @@ h3 { margin: .15rem 0 .55rem; font-size: 1.08rem; }
 .profile-links { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; margin-top: 1.5rem; }
 .external-link { font-weight: 750; text-underline-offset: .2em; }
 .external-link::after { content: " ↗"; text-decoration: none; }
+
+.section-nav { margin-top: 2rem; }
+.section-nav-label { margin: 0 0 .5rem; color: var(--muted); font-size: .9rem; font-weight: 750; }
+.section-nav-list { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0; padding: 0; list-style: none; }
+.section-nav-list a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: .5rem .85rem;
+  border: 1px solid var(--line);
+  border-radius: .5rem;
+  background: var(--white);
+  font-weight: 750;
+  text-underline-offset: .2em;
+}
+.section-nav-list a:hover { background: var(--wash); }
+h2[id] { scroll-margin-top: 2rem; }
 
 section { padding: 3.5rem 0; border-top: 1px solid var(--line); }
 .section-heading { max-width: 50rem; }
