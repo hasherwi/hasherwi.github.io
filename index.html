@@ -38,7 +38,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
         <h3>{{ item.title }}</h3>
         <p>{{ item.summary }}</p>
         {% if item.approved_public_url %}
-          <a class="external-link evidence-link" href="{{ item.approved_public_url }}" rel="noopener noreferrer">Public evidence</a>
+          <a class="external-link evidence-link" href="{{ item.approved_public_url }}" aria-label="Public evidence: {{ item.title | escape }}" rel="noopener noreferrer">Public evidence</a>
         {% endif %}
       </article>
     {% endfor %}
@@ -74,7 +74,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
         <p class="card-date">{{ event.date }}</p>
         <h3>{{ event.title }}</h3>
         <p>{{ event.summary }}</p>
-        <a class="external-link evidence-link" href="{{ event.approved_public_url }}" rel="noopener noreferrer">Public evidence</a>
+        <a class="external-link evidence-link" href="{{ event.approved_public_url }}" aria-label="Public evidence: {{ event.title | escape }}" rel="noopener noreferrer">Public evidence</a>
       </article>
     {% endfor %}
   </div>
@@ -91,7 +91,7 @@ title: Harrison Sherwin · Technical Enablement Program Manager
         <p class="credential-issuer">{{ credential.issuer }}</p>
         <h3>{{ credential.title }}</h3>
         <p>{{ credential.status }}</p>
-        <a class="external-link evidence-link" href="{{ credential.approved_public_url }}" rel="noopener noreferrer">Verify credential</a>
+        <a class="external-link evidence-link" href="{{ credential.approved_public_url }}" aria-label="Verify credential: {{ credential.title | escape }}" rel="noopener noreferrer">Verify credential</a>
       </article>
     {% endfor %}
   </div>
