@@ -25,7 +25,7 @@ body {
 }
 
 a { color: var(--link); }
-a:focus-visible, h2:focus-visible { outline: 3px solid #f0a400; outline-offset: 4px; border-radius: 2px; }
+a:focus-visible, h2:focus-visible { outline: 3px solid #9c6500; outline-offset: 4px; border-radius: 2px; }
 
 .skip-link {
   position: absolute;
