@@ -123,12 +123,6 @@ certifications:
     title: AWS Certified Solutions Architect – Professional
     status: Active · May 2021–Mar 2027
     approved_public_url: https://www.credly.com/go/2mryEHsDx4PN1gg0q5sMoQ
-  - record_id: CERT-0013
-    treatment: primary
-    issuer: The Linux Foundation / CNCF
-    title: Certified Kubernetes Administrator
-    status: Active · Sep 2023–Sep 2026
-    approved_public_url: https://www.credly.com/go/JEy4uW66dzNilFK1nqr7sw
   - record_id: CERT-0023
     treatment: supporting
     issuer: CompTIA
